@@ -3,6 +3,8 @@
 В активном поиске работы. Всегда на связи:
 - Telegram: https://t.me/DrMackey
 - Email: DrMackey@yandex.ru
+- LeetCode: https://leetcode.com/DrMackey/
+- CodeWars: https://www.codewars.com/users/DrMackey
 
 ## О себе
 
